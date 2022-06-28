@@ -13,8 +13,6 @@ Working on multiple frontend and backend project using React and Nodejs
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
 -->
 
-<br>
-
 <h2>Expertise</h2>
 <img align="left" alt="react" src="https://img.shields.io/badge/react-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="svelte" src="https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" />
