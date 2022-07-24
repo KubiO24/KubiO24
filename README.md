@@ -14,9 +14,11 @@ Working on multiple frontend and backend project using React and Nodejs
 -->
 
 <h2>Expertise</h2>
-<img align="left" alt="react" src="https://img.shields.io/badge/react-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="svelte" src="https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" />
-<img align="left" alt="three.js" src="https://img.shields.io/badge/three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" />
+<img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
 <img align="left" alt="node.js" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="socket.io" src="https://img.shields.io/badge/socket.io-010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />
-<img align="left" alt="mongoDB" src="https://img.shields.io/badge/mongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-EDEDED.svg?&style=for-the-badge&logo=socket.io&logoColor=010101" />
+<img align="left" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-001E2B.svg?&style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+<img align="left" alt="MUI" src="https://img.shields.io/badge/MUI-001E3C.svg?&style=for-the-badge&logo=mui&logoColor=007FFF" />
+<img align="left" alt="Recoil js" src="https://img.shields.io/badge/Recoil js-3578E5.svg?&style=for-the-badge" />
