@@ -14,12 +14,12 @@ Working on multiple frontend and backend project using React and Nodejs
 -->
 
 <h2>Expertise</h2>
-<a href="https://reactjs.org/"> <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
-<a href="https://svelte.dev/"> <img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" /> </a>
-<a href="https://threejs.org/"> <img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" /> </a>
-<a href="https://nodejs.org/"> <img align="left" alt="node.js" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> </a>
-<a href="https://socket.io/"> <img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-EDEDED.svg?&style=for-the-badge&logo=socket.io&logoColor=010101" /> </a>
-<a href="https://www.mongodb.com/"> <img align="left" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-001E2B.svg?&style=for-the-badge&logo=mongodb&logoColor=00ED64" /> </a>
-<a href="https://mui.com/"> <img align="left" alt="MUI" src="https://img.shields.io/badge/MUI-001E3C.svg?&style=for-the-badge&logo=mui&logoColor=007FFF" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
+<a href="https://svelte.dev/" target="_blank"> <img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" /> </a>
+<a href="https://threejs.org/" target="_blank"> <img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" /> </a>
+<a href="https://nodejs.org/" target="_blank"> <img align="left" alt="node.js" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> </a>
+<a href="https://socket.io/" target="_blank"> <img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-EDEDED.svg?&style=for-the-badge&logo=socket.io&logoColor=010101" /> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-001E2B.svg?&style=for-the-badge&logo=mongodb&logoColor=00ED64" /> </a>
+<a href="https://mui.com/" target="_blank"> <img align="left" alt="MUI" src="https://img.shields.io/badge/MUI-001E3C.svg?&style=for-the-badge&logo=mui&logoColor=007FFF" /> </a>
 <br><br>
-<a href="https://recoiljs.org/"> <img align="left" alt="Recoil js" src="https://img.shields.io/badge/Recoil js-3578E5.svg?&style=for-the-badge" /> </a>
+<a href="https://recoiljs.org/" target="_blank"> <img align="left" alt="Recoil js" src="https://img.shields.io/badge/Recoil js-3578E5.svg?&style=for-the-badge" /> </a>
