@@ -4,7 +4,7 @@ I am a web developer form Poland
 <br>
 Working on multiple frontend and backend project using React and Nodejs
 
-Connect with me by mail: kubakowal2004@gmail.com
+Contact me by mail: kubakowal2004@gmail.com
 
 <h2>Expertise</h2>
 <a href="https://reactjs.org/"> <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
