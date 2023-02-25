@@ -23,9 +23,9 @@ Contact me by mail: kubakowal2004@gmail.com
 <br/><br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubio24&show_icons=true&theme=radical" alt="KubiO24 stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubio24&show_icons=true&theme=dracula" alt="KubiO24 stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kubio24&theme=radical" alt="KubiO24 stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kubio24&theme=dracula" alt="KubiO24 stats" />
 </p>
