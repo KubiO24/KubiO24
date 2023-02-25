@@ -19,3 +19,12 @@ Contact me by mail: kubakowal2004@gmail.com
 <a href="https://styled-components.com/"> <img align="left" alt="styled-components" src="https://img.shields.io/badge/styled%20components-E28584.svg?&style=for-the-badge&logo=styled-components&logoColor=FDD664" /> </a>
 <a href="https://sass-lang.com/"> <img align="left" alt="SASS" src="https://img.shields.io/badge/sass-CD669A.svg?&style=for-the-badge&logo=sass&logoColor=FFFFFF" /> </a>
 <a href="https://recoiljs.org/"> <img align="left" alt="Recoil js" src="https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge" /> </a>
+
+<br/><br/>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubio24&show_icons=true&theme=radical" alt="KubiO24 stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kubio24&theme=radical" alt="KubiO24 stats" />
+</p>
