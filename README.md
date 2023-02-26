@@ -1,6 +1,6 @@
 <h1>Jakub Kowal</h1>
 
-I am a web developer form Poland
+Young Web Developer form Poland
 <br>
 Working on multiple frontend and backend project using React and Nodejs
 
