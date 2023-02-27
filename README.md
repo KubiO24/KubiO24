@@ -1,8 +1,8 @@
 <h1>Jakub Kowal</h1>
 
-Young Web Developer form Poland
+Young Web Developer form Poland with a passion for coding and a strong desire to learn.
 <br>
-Working on multiple frontend and backend project using React and Nodejs
+Currently seeking an junior level Front End Developer position to continue learning and developing skills.
 
 Contact me by mail: kubakowal2004@gmail.com
 
