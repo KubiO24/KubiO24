@@ -9,7 +9,7 @@ Contact me by mail: kubakowal2004@gmail.com
 <h2>Expertise</h2>
 <a href="https://reactjs.org/"> <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
 <a href="https://www.typescriptlang.org/"> <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=FFFFFF" /> </a>
-<a href="https://svelte.dev/"> <img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" /> </a>
+<a href="(https://nextjs.org/"> <img align="left" alt="next.js" src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> </a>
 <a href="https://threejs.org/"> <img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" /> </a>
 <a href="https://nodejs.org/"> <img align="left" alt="node.js" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> </a>
 <a href="https://socket.io/"> <img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-EDEDED.svg?&style=for-the-badge&logo=socket.io&logoColor=010101" /> </a>
