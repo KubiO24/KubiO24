@@ -1,6 +1,6 @@
 <h1>Jakub Kowal</h1>
 
-Young Web Developer form Poland with a passion for coding and a strong desire to learn.
+Young Web Developer from Poland with a passion for coding and a strong desire to learn.
 <br>
 Currently seeking a Front-End / Full-Stack Developer position to continue learning and developing skills.
 
