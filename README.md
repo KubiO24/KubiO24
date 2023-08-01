@@ -1,8 +1,8 @@
 <h1>Jakub Kowal</h1>
 
-Young Web Developer from Poland with a passion for coding and a strong desire to learn.
+Web Developer with over 2 year of expericence. 💻
 <br>
-Currently seeking a Front-End / Full-Stack Developer position to continue learning and developing skills.
+Currently trying to revolutionize the global farming industry by being part of fantastic team in Nirby! 🌍
 
 Contact me by mail: kubakowal2004@gmail.com
 
